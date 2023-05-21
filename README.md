@@ -1,16 +1,16 @@
-# Construindo o Futuro: O Devverso de Guilherme Pimenta
+# 【﻿Ｂｅｍ　ｖｉｎｄｏ】🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/guilherme-pimentadev/)
 [![GitHub](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/GuilhermePiDev)
 
 ## Sobre Mim
 
-Olá! Sou Guilherme Pimenta, um entusiasta de desenvolvimento de software apaixonado por construir o futuro através da tecnologia. Neste repositório, você encontrará uma variedade de projetos, experimentos e ideias que refletem minha jornada como desenvolvedor e minha busca constante por inovação.</br>
+Olá! Sou Guilherme Pimenta, desenvolvedor de software apaixonado por construir o futuro através da tecnologia. Neste perfil, você encontrará uma variedade de projetos, experimentos e ideias que refletem minha caminhada como desenvolvedor e minha busca constante por evolução.</br>
 
 :computer: Atualmente estudo para ser um desenvolvedor full stack de excelência.</br>
-:books: Estou constantemente aprendendo e aprimorando minhas habilidades.</br>
-:rocket: Estou interessado em colaborar em projetos de código aberto e participar de hackathons.</br>
 :speech_balloon: Estou aberto a troca de ideias e parcerias.</br>
+:rocket: Estou interessado em colaborar em projetos de código aberto e participar de hackathons.</br>
+:books: Estou constantemente aprendendo e aprimorando minhas habilidades.</br>
 
 ## Habilidades Técnicas
   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
@@ -26,4 +26,4 @@ Olá! Sou Guilherme Pimenta, um entusiasta de desenvolvimento de software apaixo
 - GitHub: [GuilhermePiDev](https://github.com/seu-usuario)
 - Email: guilhermepimenta976@gmail.com</br>
 
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para conectar com outros desenvolvedores apaixonados e construir um futuro tecnológico empolgante juntos. Vamos construir o Devverso!
+Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para conectar com outros desenvolvedores e construir um futuro tecnológico juntos.
