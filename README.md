@@ -5,12 +5,12 @@
 
 ## Sobre Mim
 
-Olá! Sou Guilherme Pimenta, um entusiasta de desenvolvimento de software apaixonado por construir o futuro através da tecnologia. Neste repositório, você encontrará uma variedade de projetos, experimentos e ideias que refletem minha jornada como desenvolvedor e minha busca constante por inovação.</br></br>
+Olá! Sou Guilherme Pimenta, um entusiasta de desenvolvimento de software apaixonado por construir o futuro através da tecnologia. Neste repositório, você encontrará uma variedade de projetos, experimentos e ideias que refletem minha jornada como desenvolvedor e minha busca constante por inovação.</br>
 
-:computer: Atualmente estudo para ser um desenvolvedor full stack de excelência.</br></br>
-:books: Estou constantemente aprendendo e aprimorando minhas habilidades.</br></br>
-:rocket: Estou interessado em colaborar em projetos de código aberto e participar de hackathons.</br></br>
-:speech_balloon: Estou aberto a troca de ideias e parcerias.</br></br>
+:computer: Atualmente estudo para ser um desenvolvedor full stack de excelência.</br>
+:books: Estou constantemente aprendendo e aprimorando minhas habilidades.</br>
+:rocket: Estou interessado em colaborar em projetos de código aberto e participar de hackathons.</br>
+:speech_balloon: Estou aberto a troca de ideias e parcerias.</br>
 
 ## Habilidades Técnicas
   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
