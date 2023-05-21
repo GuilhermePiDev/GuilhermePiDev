@@ -1,7 +1,7 @@
 # 【﻿Ｂｅｍ　ｖｉｎｄｏ】🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/guilherme-pimentadev/)
-[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/GuilhermePiDev)
+[![GitHub](https://img.shields.io/github/followers/GuilhermePiDev?label=Follow&style=social)](https://github.com/GuilhermePiDev)
 
 ## Sobre Mim
 
@@ -23,7 +23,7 @@ Olá! Sou Guilherme Pimenta, desenvolvedor de software apaixonado por construir 
 ## Contato
 
 - LinkedIn: [Guilherme Pimenta Gonçalves](https://www.linkedin.com/in/seu-nome/)
-- GitHub: [GuilhermePiDev](https://github.com/seu-usuario)
+- GitHub: [GuilhermePiDev](https://github.com/GuilhermePiDev)
 - Email: guilhermepimenta976@gmail.com</br>
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para conectar com outros desenvolvedores e construir um futuro tecnológico juntos.
