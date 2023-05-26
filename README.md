@@ -26,4 +26,3 @@ Olá! Sou Guilherme Pimenta, desenvolvedor de software apaixonado por construir 
 - GitHub: [GuilhermePiDev](https://github.com/GuilhermePiDev)
 - Email: guilhermepimenta976@gmail.com</br>
 
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para conectar com outros desenvolvedores e construir um futuro tecnológico juntos.
