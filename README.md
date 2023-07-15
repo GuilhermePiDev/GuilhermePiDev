@@ -1,28 +1,49 @@
-# 【﻿Ｂｅｍ　ｖｉｎｄｏ】🌐
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=2A6FF7&center=true&vCenter=true&width=1200&height=100&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+;Sinta-se+a+vontade+para+explorar+meus+projetos+ッ)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/guilherme-pimentadev/)
-[![GitHub](https://img.shields.io/github/followers/GuilhermePiDev?label=Follow&style=social)](https://github.com/GuilhermePiDev)
 
-## Sobre Mim
 
-Olá! Sou Guilherme Pimenta, desenvolvedor de software apaixonado por construir o futuro através da tecnologia. Neste perfil, você encontrará uma variedade de projetos, experimentos e ideias que refletem minha caminhada como desenvolvedor e minha busca constante por evolução.</br>
 
-:computer: Atualmente estudo para ser um desenvolvedor full stack de excelência.</br>
-:speech_balloon: Estou aberto a troca de ideias e parcerias.</br>
-:rocket: Estou interessado em colaborar em projetos de código aberto e participar de hackathons.</br>
-:books: Estou constantemente aprendendo e aprimorando minhas habilidades.</br>
+Olá! Sou Guilherme Pimenta, desenvolvedor full stack apaixonado por construir o futuro através da tecnologia. Neste perfil, você encontrará uma variedade de projetos, experimentos, ideias e atividades que refletem minha caminhada como dev e minha busca constante por evolução.</br>
 
-## Habilidades Técnicas
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-   ![React](https://img.icons8.com/color/48/000000/react-native.png)
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
-## Contato
+<div  align="center"> 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepidev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepidev&show_icons=true&theme=transparent)
+  
+### Habilidades Técnicas:
 
-- LinkedIn: [Guilherme Pimenta Gonçalves](https://www.linkedin.com/in/seu-nome/)
-- GitHub: [GuilhermePiDev](https://github.com/GuilhermePiDev)
-- Email: guilhermepimenta976@gmail.com</br>
+  
+
+
+[![HTML5](https://img.icons8.com/color/48/000000/html-5.png "HTML5")](#)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png "CSS3")](#)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")](#)
+[![React](https://img.icons8.com/color/48/000000/react-native.png "React.js")](#)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA")](#)
+[![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png "Spring Boot")](#)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MySQL")](#)
+
+
+
+
+
+
+</div>
+
+  ##
+ 
+<div  align="center"> 
+  <a href="https://www.linkedin.com/in/guilherme-pimentadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/gguilherme_pimenta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511949641083"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://discord.gg/Mirai_Pimenta" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="mailto:guilhermepimenta976@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
+</div>
+
+
+
 
