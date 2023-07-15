@@ -8,8 +8,8 @@ Olá! Sou Guilherme Pimenta, desenvolvedor full stack apaixonado por construir o
 
 <div  align="center"> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepidev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepidev&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermePiDev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePiDev&show_icons=true&theme=transparent)
   
 ### Habilidades Técnicas:
 
