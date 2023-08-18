@@ -11,7 +11,7 @@ Olá! Sou Guilherme Pimenta, desenvolvedor full stack apaixonado por construir o
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermePiDev&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePiDev&show_icons=true&theme=transparent)
   
-### Habilidades Técnicas:
+### Técnologias e linguagens:
 
   
 
@@ -23,6 +23,8 @@ Olá! Sou Guilherme Pimenta, desenvolvedor full stack apaixonado por construir o
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA")](#)
 [![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png "Spring Boot")](#)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MySQL")](#)
+[![Git](https://img.icons8.com/color/48/000000/git.png "Git")](#)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "Node.js")](#)
 
 
 
