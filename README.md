@@ -3,7 +3,7 @@
 
 
 
-Olá! Sou Guilherme Pimenta, desenvolvedor full stack apaixonado por construir o futuro através da tecnologia. Neste perfil, você encontrará uma variedade de projetos, experimentos, ideias e atividades que refletem minha caminhada como dev e minha busca constante por evolução.</br> </br>
+Olá! Sou Guilherme Pimenta, desenvolvedor back end apaixonado por construir o futuro através da tecnologia. Neste perfil, você encontrará uma variedade de projetos, experimentos, ideias e atividades que refletem minha caminhada como dev e minha busca constante por evolução.</br> </br>
 
 
 <div  align="center"> 
